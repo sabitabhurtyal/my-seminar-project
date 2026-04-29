@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+header {
+    background: #232f3e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.overview {
+    padding: 20px;
+    background: white;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.day {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+}
+
+.session {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 4px solid #0073bb;
+    background: #f9f9f9;
+}
+
+h2 {
+    color: #0073bb;
+}
+
+h3 {
+    margin-bottom: 5px;
+}
+
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #232f3e;
+    color: white;
+}
